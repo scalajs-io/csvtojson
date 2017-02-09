@@ -1,0 +1,9 @@
+{
+  "name": "csvtojson-scalajs",
+  "version": "0.3.1",
+  "private": true,
+  "dependencies": {
+    "csvtojson": "^1.1.4",
+    "source-map": "^0.5.6"
+  }
+}
