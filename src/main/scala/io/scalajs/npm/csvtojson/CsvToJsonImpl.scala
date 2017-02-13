@@ -11,6 +11,8 @@ import scala.scalajs.js
 @js.native
 trait CsvToJsonImpl extends js.Object {
 
+  def fromFile(csvString: String): Readable = js.native
+
   def fromString(csvString: String): Readable = js.native
 
 }
