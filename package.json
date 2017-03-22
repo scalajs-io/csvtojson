@@ -1,6 +1,6 @@
 {
   "name": "csvtojson-sjs",
-  "version": "1.1.4-4",
+  "version": "0.4.0-pre1",
   "private": true,
   "dependencies": {
     "csvtojson": "^1.1.4",
