@@ -8,7 +8,7 @@ import scala.scalajs.js.annotation.{JSImport, ScalaJSDefined}
 import scala.scalajs.js.|
 
 /**
-  * Converter
+  * csvtojson Converter
   * @author lawrence.daniels@gmail.com
   */
 @js.native
