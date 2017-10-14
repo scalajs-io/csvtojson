@@ -3,7 +3,7 @@ package io.scalajs.npm.csvtojson
 import io.scalajs.RawOptions
 
 import scala.scalajs.js
-import scala.scalajs.js.annotation.{JSImport, ScalaJSDefined}
+import scala.scalajs.js.annotation.JSImport
 import scala.scalajs.js.|
 
 /**
@@ -28,5 +28,5 @@ object CsvToJson extends CsvToJson
 /**
   * CSV Parsing Options
   */
-@ScalaJSDefined
+
 class ParsingOptions(val noheader: js.UndefOr[Boolean] = js.undefined) extends js.Object
